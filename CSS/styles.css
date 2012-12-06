@@ -1,0 +1,40 @@
+#general{
+	border: 1px solid black;
+	width:80%;
+	margin:0 auto;
+}
+
+#header{
+	border: 1px solid black;
+	background:#002b46;
+	color:white;
+	font-weight:bold;
+	text-align:center;
+}
+
+#content{
+	margin:10px;
+}
+
+h1,h2{
+	text-align:center;	
+}
+
+#footer{
+	text-align:center;
+	border-top: 1px solid black;
+}
+
+.selectors{
+	text-align:center;
+	
+}
+
+.selector{
+	font-weight:bold;
+	color:#002b46;
+}
+
+.red{
+	color:red;
+}
